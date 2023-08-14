@@ -16,9 +16,6 @@ when:
   branch:
     exclude: pages
 
-branches:
-  exclude: [ pages ]
-
 # Recursive cloning is used to fully clone the themes given as Git submodules
 clone:
   git:
