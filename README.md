@@ -12,4 +12,4 @@ suddenly my new web site
 - [ ] Possibly federated comments? Since I already use GtS on .me I might just create a post with the link on my blog and extract comments from GtS, as it was possible with Mastodon
 - [ ] Preview version on `preview.lumaeris.com`/`new.lumaeris.com`
 - [x] Migrate to Codeberg? ~~(locked due to lack of redirect support)~~
-- [x] Fill out this list for now
+- [ ] Fill out this list
