@@ -7,5 +7,8 @@ suddenly my new web site
 - [ ] Migrate to Hugo ~~/Zola~~
 - [ ] Redirects
 - [ ] Blog in `/blog`
+- [ ] Create layout for main page and blog
 - [ ] Possibly federated comments? Since I already use GtS on .me I might just create a post with the link on my blog and extract comments from GtS, as it was possible with Mastodon
-- [ ] Fill out this list
+- [ ] Preview version on `preview.lumaeris.com`/`new.lumaeris.com`
+- [ ] Migrate to Codeberg? (locked due to lack of redirect support)
+- [x] Fill out this list for now
