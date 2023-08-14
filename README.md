@@ -5,6 +5,7 @@ suddenly my new web site
 ## To-do
 
 - [ ] Migrate to Hugo ~~/Zola~~
+- [ ] Placeholder for my future music on `/music`
 - [ ] Redirects
 - [ ] Blog in `/blog`
 - [ ] Create layout for main page and blog
