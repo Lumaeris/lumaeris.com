@@ -9,7 +9,7 @@ suddenly my new web site
 - [x] Redirects
 - [ ] Blog in `/blog`
 - [ ] `/tw-migration`
-- [ ] `/wsl` for WSL-AltInstaller
+- [ ] Applying the submodule for `/wsl` ([WSL-AltInstaller](https://codeberg.org/Lumaeris/WSL-AltInstaller))
 - [ ] Create layout for main page and blog
 - [ ] Possibly federated comments? Since I already use GtS on .me I might just create a post with the link on my blog and extract comments from GtS, as it was possible with Mastodon
 - [ ] Preview version on `preview.lumaeris.com`/`new.lumaeris.com`
