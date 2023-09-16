@@ -1,4 +1,4 @@
-# [lumaeris.com](https://lumaeris.com/) 🌟 [![status-badge](https://ci.codeberg.org/api/badges/12515/status.svg)](https://ci.codeberg.org/repos/12515) [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
+# [lumaeris.com](https://lumaeris.com/) 🌟
 
 suddenly my new web site
 
