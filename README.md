@@ -13,5 +13,5 @@ suddenly my new web site
 - [ ] Create layout for main page and blog
 - [ ] Possibly federated comments? Since I already use GtS on .me I might just create a post with the link on my blog and extract comments from GtS, as it was possible with Mastodon
 - [ ] Preview version on `preview.lumaeris.com`/`new.lumaeris.com`
-- [x] Check out some themes created for Hugo to take some inspiration
+- [ ] Check out some themes created for Hugo to take some inspiration
 - [ ] Fill out this list
