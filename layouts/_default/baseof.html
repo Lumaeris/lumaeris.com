@@ -6,9 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/assets/img/favicon.png" type="image/png">
     <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
-    <title>{{ block "title" . }}
-        {{ .Site.Title }}
-    {{ end }}</title>
+    <link rel="canonical" href="https://lumaeris.com{{ .RelPermalink }}" />
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     <style>
         @import url(https://fonts.bunny.net/css?family=inter:400,500,600);
 
