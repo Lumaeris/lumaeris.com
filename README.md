@@ -6,6 +6,7 @@ suddenly my new web site
 
 ~~- [ ] Migrate to Zola~~
 - [ ] Placeholder for my future music on `/music`
+- [ ] A new short domain for redirects
 - [x] Redirects ~~(CF's Bulk Redirects)~~
 - [ ] Blog in `/blog`
 - [ ] `/tw-migration`
